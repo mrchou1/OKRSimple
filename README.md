@@ -11,4 +11,4 @@ npm run dev
 
 # TODO
 1 前端展示 如下图
-![Front](https://github.com/gakaki/OKRSimple/images/readme.png)
+![Front](https://github.com/gakaki/OKRSimple/blob/master/images/readme.png?raw=true)
