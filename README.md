@@ -4,10 +4,10 @@
 
 # 使用方法
 
-npm install
-npm install -g prsima2
-npm run start:db
-npm run dev
+    npm install
+    npm install -g prsima2
+    npm run start:db
+    npm run dev
 
 # TODO
 1 前端展示 如下图
